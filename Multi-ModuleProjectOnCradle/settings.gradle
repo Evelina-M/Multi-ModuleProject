@@ -1,0 +1,5 @@
+rootProject.name = 'Multi-ModuleProjectOnCradle'
+include 'db'
+include 'service'
+include 'api'
+
